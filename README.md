@@ -246,7 +246,7 @@ console.log(stack.pop())
 console.log(stack.size())
 ```
 
-## Queue
+## Explicando o conceito de Queue na programação
 
 Queue significa fila, e se nome faz jus à sua função. Queue é como uma fila de uma loja ou restaurante, de maneira linear, assim como o Stack, mas ao contrário do Stack, não é usado FILO (First In Last Out). No Queue se usa o FIFO (First In First Out), ou seja, o primeiro a entrar na fila é o primeiro a sair dela.
 
